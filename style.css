@@ -1,18 +1,19 @@
 /* General styles */
 body {
     margin: 0;
-    font-family:'Times New Roman', Times, serif;
-    background-color: #f9f4fc; 
-    color: #66659e; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffe0a5; /* very light pastel purple */
+    color: #4b0456; /* soft purple text */
+  }
   
   /* Navbar styling */
   .navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #d8b4f8; /* pastel lavender */
+    background-color: #461870; /* pastel lavender */
     padding: 15px 40px;
-    color: #3e2b5c;
+    color: #ffb872;
     box-shadow: 0 2px 6px rgba(90, 66, 112, 0.1);
   }
   
@@ -55,23 +56,13 @@ body {
     color: #6b547f; /* slightly deeper pastel text */
   }
   .hero {
-    background-color: #f3e8fb; /* soft pastel background */
+    background-color: #e5958e; /* soft pastel background */
     text-align: center;
     padding: 100px 20px 60px;
   }
   
   .hero h1 {
     font-size: 36px;
-    color: #5a4270;
+    color: #220832;
     margin: 0;
   }
-
-
-    
-
-
-
-
-
-
-
